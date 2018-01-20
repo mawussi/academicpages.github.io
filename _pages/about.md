@@ -11,7 +11,7 @@ I am currently a Research Associate in the [Numerical Linear Algebra group](http
 
 Current Projects
 ======
-I have always been interested in High-Performance computing, Numerical Linear Algebra and Fault tolerant.
+I am interested in High-Performance Computing, Numerical Linear Algebra, and Fault Tolerant Algorithms.
 
 ## [NLAFET (2015--Present)](http://www.nlafet.eu/)
 Currently, I am contributing to the [Horizon 2020 NLAFET project](http://www.nlafet.eu/) that aims at providing high-performance and fault tolerant numerical linear algebra software for future extreme scale machines. My activities in this project
