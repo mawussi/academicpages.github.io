@@ -21,7 +21,7 @@ Work experience
 ======
 * 2015 -- Present: Postdoctoral Research Associate
   * The University of Manchester
-  * Advisors: [Professor Jack Dongarra](http://www.netlib.org/utk/people/JackDongarra/) and [Professor Nicholas J. Higham](http://www.maths.manchester.ac.uk/~higham) 
+  * Advisors: [Jack Dongarra](http://www.netlib.org/utk/people/JackDongarra/) and [Nicholas J. Higham](http://www.maths.manchester.ac.uk/~higham) 
 
 * Fall 2015: Research Assistant
   * Github University
