@@ -17,4 +17,4 @@ parallel resilient Krylov linear solvers. Numerical Linear Algebra with Applicat
 2016. 
 
 3. E. Agullo, L. Giraud, P. Salas, and **M. Zounon**. Interpolation-restart strategies for resilient eigen-
-solvers. SIAM Journal on Scientific Computing, 38(5):C560–C583, 2016.
+solvers. SIAM Journal on Scientific Computing, 38(5):C560–C583, 2016. 
