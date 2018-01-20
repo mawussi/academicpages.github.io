@@ -13,7 +13,7 @@ Current Projects
 ======
 I have always been interested in High-Performance computing, Numerical Linear Algebra and Fault tolerant.
 
-## [NLAFET](http://www.nlafet.eu/)
+## [NLAFET (2015--Present)](http://www.nlafet.eu/)
 Currently, I am contributing to the [Horizon 2020 NLAFET project](http://www.nlafet.eu/) that aims at providing high-performance and fault tolerant numerical linear algebra software for future extreme scale machines. My activities in this project
 include:
 * Task-based linear algebra algorithms for modern architectures.
@@ -21,10 +21,22 @@ include:
 * Novel fault tolerant algorithms.
 * Novel scheduling strategies for HPC systems.
 
-## [PLASMA](https://bitbucket.org/icl/plasma)
+## [PLASMA (2016--Present)](https://bitbucket.org/icl/plasma)
 PLASMA is a software package for solving problems in dense linear algebra using multicore processors and Xeon Phi coprocessors. PLASMA provides implementations of state-of-the-art algorithms using cutting-edge task scheduling techniques. PLASMA currently offers a collection of routines for solving linear systems of equations, least squares problems, eigenvalue problems, and singular value problems. I am actively involved in the process of porting form [QUARK](http://icl.cs.utk.edu/quark/) to [OpenMP](http://www.openmp.org/specifications/). I am main working on the OpenMP version of the following routines:
 
 * Level 3 BLAS kernels.
 * Two-stage SVD decomposition kernels for singular value problems.  
 * Two-stage Eigenvalue decomposition kernels for eigenvalue problems. 
+
+Past Projects
+============
+
+## RESCUE (2010--2015)
+The objective of the Rescue project was to develop new algorithmic techniques and
+software to address resilience in large-scale simulation applications.
+
+## [G8 ESC (2011--2014)](https://wiki.ncsa.illinois.edu/display/jointlab/G8+ESC++--+Enabling+Climate+Simulations+at+Extreme+Scale)
+the objective of the G8 ESC project was to investigate how to run efficiently climate simulations on future
+exascale systems in the presence of faults.
+
 
