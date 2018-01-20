@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D in Applied Mathematics and Computer Science, University of Bordeaux, 2015
+  * Advisor: [Luc Giraud](https://team.inria.fr/hiepacs/team-members/luc-giraud/)
+* M.S. in Computer Science, University of Bordeaux, 2011
+  * Advisor: [luc Giraud](https://team.inria.fr/hiepacs/team-members/luc-giraud/)
+* M.Eng. in  Software Engineering, ENSEIRB-MATMECA, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015 -- Present: Postdoctoral Research Associate
+  * The University of Manchester
+  * Advisors: [Professor Jack Dongarra](http://www.netlib.org/utk/people/JackDongarra/) and [Professor Nicholas J. Higham](http://www.maths.manchester.ac.uk/~higham) 
 
 * Fall 2015: Research Assistant
   * Github University
