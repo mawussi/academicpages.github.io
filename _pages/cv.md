@@ -17,16 +17,16 @@ Education
  
 Work experience
 ======
-* 2015--Present: Postdoctoral Research Associate
+* **2015--Present: Postdoctoral Research Associate**
   * The University of Manchester
-  * PIs: [**Jack Dongarra**](http://www.netlib.org/utk/people/JackDongarra/) and [**Nicholas J. Higham**](http://www.maths.manchester.ac.uk/~higham) 
+  * PIs: [Jack Dongarra](http://www.netlib.org/utk/people/JackDongarra/) and [Nicholas J. Higham](http://www.maths.manchester.ac.uk/~higham) 
 
-* 2016--Present: Teaching Assistant
+* **2016--Present: Teaching Assistant**
   * The University of Manchester
   
-* 2011--2015: Research Assistant
-  * Research group: [**HiePACS--INRIA**](https://team.inria.fr/hiepacs/)
-  * Advisor: [**Luc Giraud**](https://team.inria.fr/hiepacs/team-members/luc-giraud/)  
+* **2011--2015: Research Assistant**
+  * Research group: [HiePACS--INRIA](https://team.inria.fr/hiepacs/)
+  * Advisor: [Luc Giraud](https://team.inria.fr/hiepacs/team-members/luc-giraud/)  
   
 Skills
 ======
