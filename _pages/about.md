@@ -32,11 +32,15 @@ Past Projects
 ============
 
 ## RESCUE (2010--2015)
+RESCUE is an ANR-Blanc project funded by the french ministry of research.
 The objective of the Rescue project was to develop new algorithmic techniques and
 software to address resilience in large-scale simulation applications.
 
-## [G8 ESC (2011--2014)](https://wiki.ncsa.illinois.edu/display/jointlab/G8+ESC++--+Enabling+Climate+Simulations+at+Extreme+Scale)
-the objective of the G8 ESC project was to investigate how to run efficiently climate simulations on future
-exascale systems in the presence of faults.
+## [G8 Enabling Climate Simulations at Extreme Scale (2011--2014)](https://wiki.ncsa.illinois.edu/display/jointlab/G8+ESC++--+Enabling+Climate+Simulations+at+Extreme+Scale) 
+The objective of the G8 ECS project was to investigate how to run efficiently climate simulations on future Exascale systems and get correct results. This project was focused on three main topics: 
+
+  1. how to complete simulations with correct results despite frequent system failures,
+  2. how to exploit hierarchical computers with hardware accelerators close to their peak performance
+  3. how to run efficient simulations with 1 billion threads. 
 
 
