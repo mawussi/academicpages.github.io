@@ -31,10 +31,11 @@ PLASMA is a software package for solving problems in dense linear algebra using 
 Past Projects
 ============
 
-## RESCUE (2010--2015)
-RESCUE is an ANR-Blanc project funded by the french ministry of research.
-The objective of the Rescue project was to develop new algorithmic techniques and
-software to address resilience in large-scale simulation applications.
+## [RESCUE (2010--2015)](http://www.agence-nationale-recherche.fr/Project-ANR-10-BLAN-0301)
+The main objective of the RESCUE project is to develop new algorithmic techniques and software
+tools to solve the "exascale resilience problem". Solving this
+problem implies a departure from current approaches, and calls for yet-to-be-discovered algorithms,
+protocols and software tools. 
 
 ## [G8 Enabling Climate Simulations at Extreme Scale (2011--2014)](https://wiki.ncsa.illinois.edu/display/jointlab/G8+ESC++--+Enabling+Climate+Simulations+at+Extreme+Scale) 
 The objective of the G8 ECS project was to investigate how to run efficiently climate simulations on future Exascale systems and get correct results, and one of the main topic of this project was designing resilient Krylov solver for applications at exascale.
