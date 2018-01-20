@@ -28,6 +28,9 @@ Work experience
   * Research group: [HiePACS--INRIA](https://team.inria.fr/hiepacs/)
   * Advisor: [Luc Giraud](https://team.inria.fr/hiepacs/team-members/luc-giraud/)  
   
+* **2012--2014: Teaching Assistant**
+  * ENSEIRB-MATMECA     
+  
 Skills
 ======
 * Skill 1
