@@ -1,15 +1,13 @@
 ---
 layout: archive
-title: ""
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-["Pdf version here"](https://github.com/mawussi/mawussi.github.io/files/CV.pdf) 
-=======
+{% include base_path %} 
 
 Education
 ======
