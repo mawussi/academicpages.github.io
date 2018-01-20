@@ -37,8 +37,8 @@ tools to solve the "exascale resilience problem". Solving this
 problem implies a departure from current approaches, and calls for yet-to-be-discovered algorithms,
 protocols and software tools. 
 
-## [G8 Enabling Climate Simulations at Extreme Scale (2011--2014)](https://wiki.ncsa.illinois.edu/display/jointlab/G8+ESC++--+Enabling+Climate+Simulations+at+Extreme+Scale) 
-The objective of the G8 ECS project was to investigate how to run efficiently climate simulations on future Exascale systems and get correct results, and one of the main topic of this project was designing resilient Krylov solver for applications at exascale.
+## [G8 ECS (2011--2014)](https://wiki.ncsa.illinois.edu/display/jointlab/G8+ESC++--+Enabling+Climate+Simulations+at+Extreme+Scale) 
+The objective of the G8 Enabling Climate Simulations at Extreme Scale project was to investigate how to run efficiently climate simulations on future Exascale systems and get correct results, and one of the main topic of this project was designing resilient Krylov solver for applications at exascale.
 
   
 
