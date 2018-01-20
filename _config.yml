@@ -54,8 +54,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -78,10 +76,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mawussi Zounon"
+  name             : "M. Zounon"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Manchester, UK"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=hSmuUDIAAAAJ&hl=en"
   email            : "mawussi.zounon@gmail.com"
@@ -97,7 +95,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "zounon"
+  linkedin         : "https://www.linkedin.com/in/mawussi-zounon-347a35b7/"
   orcid            : "https://orcid.org/0000-0002-6955-1500"
   pinterest        :
   soundcloud       :
