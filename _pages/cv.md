@@ -1,7 +1,6 @@
 ---
 layout: archive
-title: "Resume" [pdf version](https://github.com/mawussi/mawussi.github.io/files/CV.pdf)
-permalink: 
+title: "CV"
 author_profile: true
 redirect_from:
   - /resume
@@ -31,7 +30,7 @@ Skills
 ======
 * Skill 1
 * Skill 2
-  * Sub-skill 2.
+  * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
