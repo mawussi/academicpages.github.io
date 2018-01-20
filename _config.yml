@@ -78,13 +78,13 @@ analytics:
 author:
   name             : "M. Zounon"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research Associate"
   location         : "Manchester, UK"
-  employer         :
+  employer         : "The University of Manchester"
   googlescholar    : "https://scholar.google.com/citations?user=hSmuUDIAAAAJ&hl=en"
   email            : "mawussi.zounon@gmail.com"
   uri              :
-  bitbucket        :
+  bitbucket        : "zounon"
   codepen          :
   dribbble         :
   flickr           :
@@ -95,7 +95,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mawussi-zounon-347a35b7/"
+  linkedin         : ""
   orcid            : "https://orcid.org/0000-0002-6955-1500"
   pinterest        :
   soundcloud       :
