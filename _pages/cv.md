@@ -12,12 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, University of Bordeaux 2015
-  * Advisor: [Luc Giraud](https://team.inria.fr/hiepacs/team-members/luc-giraud/)
 * M.S. in Computer Science, University of Bordeaux 2011
-  * Advisor: [luc Giraud](https://team.inria.fr/hiepacs/team-members/luc-giraud/)
 * M.Eng. in  Software Engineering, ENSEIRB-MATMECA, 2011
  
-
 Work experience
 ======
 * 2015 -- Present: Postdoctoral Research Associate
