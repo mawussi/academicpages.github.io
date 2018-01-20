@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ["CV"](https://github.com/mawussi/mawussi.github.io/files/CV.pdf) 
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+["Pdf version here"](https://github.com/mawussi/mawussi.github.io/files/CV.pdf) 
+=======
 
 Education
 ======
