@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Bordeaux 2015
-* M.S. in Computer Science, University of Bordeaux 2011
+* Ph.D in Computer Science, University of Bordeaux, 2015
+* M.S. in Computer Science, University of Bordeaux, 2011
 * M.Eng. in  Software Engineering, ENSEIRB-MATMECA, 2011
  
 Work experience
 ======
 * 2015 -- Present: Postdoctoral Research Associate
   * The University of Manchester
-  * Advisors: [Jack Dongarra](http://www.netlib.org/utk/people/JackDongarra/) and [Nicholas J. Higham](http://www.maths.manchester.ac.uk/~higham) 
+  * PIs: [Jack Dongarra](http://www.netlib.org/utk/people/JackDongarra/) and [Nicholas J. Higham](http://www.maths.manchester.ac.uk/~higham) 
 
 * Fall 2015: Research Assistant
   * Github University
