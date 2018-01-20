@@ -11,11 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Applied Mathematics and Computer Science, University of Bordeaux, 2015
+* Ph.D in Applied Mathematics and Computer Science, 2015
+  * University of Bordeaux
   * Advisor: [Luc Giraud](https://team.inria.fr/hiepacs/team-members/luc-giraud/)
-* M.S. in Computer Science, University of Bordeaux, 2011
+* M.S. in Computer Science, 2011
+  *  University of Bordeaux
   * Advisor: [luc Giraud](https://team.inria.fr/hiepacs/team-members/luc-giraud/)
-* M.Eng. in  Software Engineering, ENSEIRB-MATMECA, 2011
+* M.Eng. in  Software Engineering, 2011
+  * ENSEIRB-MATMECA
 
 Work experience
 ======
