@@ -17,14 +17,16 @@ Education
  
 Work experience
 ======
-* 2015 -- Present: Postdoctoral Research Associate
+* 2015--Present: Postdoctoral Research Associate
   * The University of Manchester
   * PIs: [Jack Dongarra](http://www.netlib.org/utk/people/JackDongarra/) and [Nicholas J. Higham](http://www.maths.manchester.ac.uk/~higham) 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016--Present: Teaching Assistant
+  * The University of Manchester
+  
+* 2011--2015: Research Assistant
+  * Research group: [INRIA](https://team.inria.fr/hiepacs/)
+  * Advisor: [Luc Giraud](https://team.inria.fr/hiepacs/team-members/luc-giraud/)  
   
 Skills
 ======
