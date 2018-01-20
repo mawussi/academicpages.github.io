@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: ["CV"](https://github.com/mawussi/mawussi.github.io/files/CV.pdf)
-permalink: /cv/
+title: "Resume" [pdf version](https://github.com/mawussi/mawussi.github.io/files/CV.pdf)
+permalink: 
 author_profile: true
 redirect_from:
   - /resume
