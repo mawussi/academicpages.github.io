@@ -25,7 +25,7 @@ Work experience
   * The University of Manchester
   
 * 2011--2015: Research Assistant
-  * Research group: [**INRIA**](https://team.inria.fr/hiepacs/)
+  * Research group: [**HiePACS--INRIA**](https://team.inria.fr/hiepacs/)
   * Advisor: [**Luc Giraud**](https://team.inria.fr/hiepacs/team-members/luc-giraud/)  
   
 Skills
