@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="text-align: right"> 
 I am currently a Research Associate in the [Numerical Linear Algebra group](http://www.maths.manchester.ac.uk/~ftisseur/nla/) at [The University of Manchester](http://www.manchester.ac.uk/). Previously, I was a Research Assistant in the [HiePACS group](https://team.inria.fr/hiepacs/)  where I did my PhD research projects with [Luc Giraud](https://team.inria.fr/hiepacs/team-members/luc-giraud/) to earn my PhD degree at the University of Bordeaux.  
-
+</div>
 Current Projects
 ======
 I am interested in High-Performance Computing, Numerical Linear Algebra, and Fault Tolerant Algorithms.
