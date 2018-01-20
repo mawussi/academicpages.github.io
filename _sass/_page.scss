@@ -399,3 +399,8 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+div {
+    text-align: justify;
+    text-justify: inter-word;
+}
