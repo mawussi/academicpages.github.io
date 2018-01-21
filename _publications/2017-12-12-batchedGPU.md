@@ -1,6 +1,5 @@
 ---
-title: "A Guide For Achieving High Performance With Very Small Matrices On GPU: A case Study of Batched LU and Cholesky Factor-
-izations"
+title: "A Guide For Achieving High Performance With Very Small Matrices On GPU: A case Study of Batched LU and Cholesky Factorizations"
 collection: publications
 permalink: /publication/2017-12-12-batchedGPU
 excerpt: ''
