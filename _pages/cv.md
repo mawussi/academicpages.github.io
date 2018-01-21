@@ -37,19 +37,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Manuscripts Under Review
-======
-  <ul>{% for post in site.manuscripts  reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Conference Proceedings
-======
-  <ul>{% for post in site.proceedings  reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
