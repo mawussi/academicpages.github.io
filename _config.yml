@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Jekyll! 
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -80,7 +80,7 @@ author:
   avatar           : "profile.png"
   bio              : "Research Associate, The University of Manchester"
   location         : "Manchester, UK"
-  employer         : 
+  employer         : https://enseirb-matmeca.bordeaux-inp.fr/syllabus1415/index.php?&module=IF101&langage=EN
   googlescholar    : "https://scholar.google.com/citations?user=hSmuUDIAAAAJ&hl=en"
   email            : "mawussi.zounon@gmail.com"
   uri              :
@@ -108,7 +108,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+https://enseirb-matmeca.bordeaux-inp.fr/syllabus1415/index.php?&module=IF101&langage=EN
 
 # Reading Files
 include:
