@@ -31,9 +31,7 @@ Work experience
 * **2012--2014: Teaching Assistant**
   * ENSEIRB-MATMECA     
   
-[Publications](https://mawussi.github.io/publications/)  
-======
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
