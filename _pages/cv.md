@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %} 
-
 Education
 ======
 * Ph.D in Computer Science, University of Bordeaux, 2015
@@ -30,6 +28,7 @@ Appointments
   
 * **2012--2014: Teaching Assistant**
   * ENSEIRB-MATMECA     
+   
   
 Publications
 ======
@@ -49,6 +48,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-1. McSweeney
