@@ -31,7 +31,8 @@ Work experience
 * **2012--2014: Teaching Assistant**
   * ENSEIRB-MATMECA     
   
-
+[Publications](https://mawussi.github.io/publications/)  
+======
 Journal articles
 ======
 1. **A Guide For Achieving High
