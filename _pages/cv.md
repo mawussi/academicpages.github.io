@@ -15,7 +15,7 @@ Education
 * M.S. in Computer Science, University of Bordeaux, 2011
 * M.Eng. in  Software Engineering, ENSEIRB-MATMECA, 2011
  
-Work experience
+Appointments
 ======
 * **2015--Present: Postdoctoral Research Associate**
   * The University of Manchester
