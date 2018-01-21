@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Bordeaux, 2015
+* Ph.D in Computer Science, University of Bordeaux, 2015 
 * M.S. in Computer Science, University of Bordeaux, 2011
 * M.Eng. in  Software Engineering, ENSEIRB-MATMECA, 2011
  
