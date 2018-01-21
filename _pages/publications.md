@@ -22,7 +22,7 @@ Distributed Systems, 2017.*
 2. **Parallel Linear Algebra Software for Multicore Using OpenMP**. J. Dongarra et al. *Submitted
 to ACM Transactions on Mathematical Software, 2017.*
 
-COnference proceedings
+Conference proceedings
 =====
 1. **Optimized Batched Linear Algebra for Modern Architectures**. J. Dongarra, S. Hammarling, N. J. Higham, S. Relton, and M. Zounon. *In European Conference on Parallel Processing, pp. 511-522. Springer, Cham, 2017*.
 2. **The design and Performance of Batched BLAS on Modern High-Performance Computing Systems**. J. Dongarra, S. Hammarling, N. J. Higham, S. D. Relton, P. Valero-Lara, and M. Zounon. *Procedia Computer Science, 108, pp.495-504, 2017*.
