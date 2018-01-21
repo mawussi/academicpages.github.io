@@ -2,7 +2,7 @@
 title: "A Guide For Achieving High Performance With Very Small Matrices On GPU: A case Study of Batched LU and Cholesky Factor-
 izations"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2017-12-12-batchedGPU
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
