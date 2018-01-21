@@ -108,8 +108,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-https://enseirb-matmeca.bordeaux-inp.fr/syllabus1415/index.php?&module=IF101&langage=EN
-
 # Reading Files
 include:
   - .htaccess
