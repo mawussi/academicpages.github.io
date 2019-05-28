@@ -9,8 +9,9 @@ redirect_from:
 ---
 I am currently working on a Knowledge Transfer Partnership project in collaboration with [The Numerical Algorithms Group](https://www.nag.co.uk/) and  [The University of Manchester](http://www.manchester.ac.uk/).
 
-Interests: Numerical Linear Algebra,  Machine Learning, High Performance Computing (HPC)  and  CUDA kernel optimization.
+Interests
 =========
+Numerical Linear Algebra,  Machine Learning, High Performance Computing (HPC)  and  CUDA kernel optimization.
 
 Current Project
 ==============
